@@ -1,0 +1,17 @@
+C:\Users\Serdar_Filik\Desktop\DotNetBasicMentorProjects\Exception Handling\Task1\bin\Debug\netcoreapp3.1\Task1.exe
+C:\Users\Serdar_Filik\Desktop\DotNetBasicMentorProjects\Exception Handling\Task1\bin\Debug\netcoreapp3.1\Task1.deps.json
+C:\Users\Serdar_Filik\Desktop\DotNetBasicMentorProjects\Exception Handling\Task1\bin\Debug\netcoreapp3.1\Task1.runtimeconfig.json
+C:\Users\Serdar_Filik\Desktop\DotNetBasicMentorProjects\Exception Handling\Task1\bin\Debug\netcoreapp3.1\Task1.runtimeconfig.dev.json
+C:\Users\Serdar_Filik\Desktop\DotNetBasicMentorProjects\Exception Handling\Task1\bin\Debug\netcoreapp3.1\Task1.dll
+C:\Users\Serdar_Filik\Desktop\DotNetBasicMentorProjects\Exception Handling\Task1\bin\Debug\netcoreapp3.1\Task1.pdb
+C:\Users\Serdar_Filik\Desktop\DotNetBasicMentorProjects\Exception Handling\Task1\obj\Debug\netcoreapp3.1\Task1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Serdar_Filik\Desktop\DotNetBasicMentorProjects\Exception Handling\Task1\obj\Debug\netcoreapp3.1\Task1.AssemblyInfoInputs.cache
+C:\Users\Serdar_Filik\Desktop\DotNetBasicMentorProjects\Exception Handling\Task1\obj\Debug\netcoreapp3.1\Task1.AssemblyInfo.cs
+C:\Users\Serdar_Filik\Desktop\DotNetBasicMentorProjects\Exception Handling\Task1\obj\Debug\netcoreapp3.1\Task1.csproj.CoreCompileInputs.cache
+C:\Users\Serdar_Filik\Desktop\DotNetBasicMentorProjects\Exception Handling\Task1\obj\Debug\netcoreapp3.1\Task1.dll
+C:\Users\Serdar_Filik\Desktop\DotNetBasicMentorProjects\Exception Handling\Task1\obj\Debug\netcoreapp3.1\Task1.pdb
+C:\Users\Serdar_Filik\Desktop\DotNetBasicMentorProjects\Exception Handling\Task1\obj\Debug\netcoreapp3.1\Task1.genruntimeconfig.cache
+C:\Users\Serdar_Filik\Desktop\DotNetBasicMentorProjects\Exception Handling\Task1\bin\Debug\netcoreapp3.1\Task2.dll
+C:\Users\Serdar_Filik\Desktop\DotNetBasicMentorProjects\Exception Handling\Task1\bin\Debug\netcoreapp3.1\Task2.pdb
+C:\Users\Serdar_Filik\Desktop\DotNetBasicMentorProjects\Exception Handling\Task1\obj\Debug\netcoreapp3.1\Task1.csproj.AssemblyReference.cache
+C:\Users\Serdar_Filik\Desktop\DotNetBasicMentorProjects\Exception Handling\Task1\obj\Debug\netcoreapp3.1\Task1.csproj.Up2Date
