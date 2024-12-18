@@ -3,23 +3,27 @@
   "WorkspaceRootPath": "C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\Exception Handling\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F2245DDE-3315-48F8-B864-CB99C6CA17E7}|Task3.Tests\\Task3.Tests.csproj|C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\Exception Handling\\task3.tests\\usertaskcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2245DDE-3315-48F8-B864-CB99C6CA17E7}|Task3.Tests\\Task3.Tests.csproj|solutionrelative:task3.tests\\usertaskcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{72DFC367-954C-4C33-A78E-1C5363B3BE4D}|Task3\\Task3.csproj|c:\\users\\serdar_filik\\desktop\\dotnetbasicmentorprojects\\exception handling\\task3\\usertaskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{72DFC367-954C-4C33-A78E-1C5363B3BE4D}|Task3\\Task3.csproj|solutionrelative:task3\\usertaskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F2245DDE-3315-48F8-B864-CB99C6CA17E7}|Task3.Tests\\Task3.Tests.csproj|c:\\users\\serdar_filik\\desktop\\dotnetbasicmentorprojects\\exception handling\\task3.tests\\usertaskcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F2245DDE-3315-48F8-B864-CB99C6CA17E7}|Task3.Tests\\Task3.Tests.csproj|solutionrelative:task3.tests\\usertaskcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F2245DDE-3315-48F8-B864-CB99C6CA17E7}|Task3.Tests\\Task3.Tests.csproj|c:\\users\\serdar_filik\\desktop\\dotnetbasicmentorprojects\\exception handling\\task3.tests\\stubs\\responsemodelstub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F2245DDE-3315-48F8-B864-CB99C6CA17E7}|Task3.Tests\\Task3.Tests.csproj|C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\Exception Handling\\task3.tests\\stubs\\responsemodelstub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F2245DDE-3315-48F8-B864-CB99C6CA17E7}|Task3.Tests\\Task3.Tests.csproj|solutionrelative:task3.tests\\stubs\\responsemodelstub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F2245DDE-3315-48F8-B864-CB99C6CA17E7}|Task3.Tests\\Task3.Tests.csproj|c:\\users\\serdar_filik\\desktop\\dotnetbasicmentorprojects\\exception handling\\task3.tests\\stubs\\userstab.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F2245DDE-3315-48F8-B864-CB99C6CA17E7}|Task3.Tests\\Task3.Tests.csproj|c:\\users\\serdar_filik\\desktop\\dotnetbasicmentorprojects\\exception handling\\task3.tests\\task3.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F2245DDE-3315-48F8-B864-CB99C6CA17E7}|Task3.Tests\\Task3.Tests.csproj|solutionrelative:task3.tests\\task3.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2245DDE-3315-48F8-B864-CB99C6CA17E7}|Task3.Tests\\Task3.Tests.csproj|C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\Exception Handling\\task3.tests\\stubs\\userstab.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F2245DDE-3315-48F8-B864-CB99C6CA17E7}|Task3.Tests\\Task3.Tests.csproj|solutionrelative:task3.tests\\stubs\\userstab.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F2245DDE-3315-48F8-B864-CB99C6CA17E7}|Task3.Tests\\Task3.Tests.csproj|c:\\users\\serdar_filik\\desktop\\dotnetbasicmentorprojects\\exception handling\\task3.tests\\stubs\\userdaostub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F2245DDE-3315-48F8-B864-CB99C6CA17E7}|Task3.Tests\\Task3.Tests.csproj|C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\Exception Handling\\task3.tests\\stubs\\userdaostub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F2245DDE-3315-48F8-B864-CB99C6CA17E7}|Task3.Tests\\Task3.Tests.csproj|solutionrelative:task3.tests\\stubs\\userdaostub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -30,17 +34,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "UserTaskController.cs",
               "DocumentMoniker": "C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\Exception Handling\\Task3\\UserTaskController.cs",
               "RelativeDocumentMoniker": "Task3\\UserTaskController.cs",
               "ToolTip": "C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\Exception Handling\\Task3\\UserTaskController.cs",
               "RelativeToolTip": "Task3\\UserTaskController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAIAAAA",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAuwBcAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-16T14:58:09.077Z",
               "IsPinned": true,
@@ -48,13 +52,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "UserTaskControllerTests.cs",
               "DocumentMoniker": "C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\Exception Handling\\Task3.Tests\\UserTaskControllerTests.cs",
               "RelativeDocumentMoniker": "Task3.Tests\\UserTaskControllerTests.cs",
               "ToolTip": "C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\Exception Handling\\Task3.Tests\\UserTaskControllerTests.cs",
               "RelativeToolTip": "Task3.Tests\\UserTaskControllerTests.cs",
-              "ViewState": "AQIAADMAAAAAAAAAAAAQwEAAAAAIAAAA",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwCMAAABVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-16T14:58:06.064Z",
               "IsPinned": true,
@@ -91,6 +95,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "Task3.Tests",
+              "DocumentMoniker": "C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\Exception Handling\\Task3.Tests\\Task3.Tests.csproj",
+              "RelativeDocumentMoniker": "Task3.Tests\\Task3.Tests.csproj",
+              "ToolTip": "C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\Exception Handling\\Task3.Tests\\Task3.Tests.csproj",
+              "RelativeToolTip": "Task3.Tests\\Task3.Tests.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-18T13:33:01.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "UserStab.cs",
               "DocumentMoniker": "C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\Exception Handling\\Task3.Tests\\Stubs\\UserStab.cs",
               "RelativeDocumentMoniker": "Task3.Tests\\Stubs\\UserStab.cs",
@@ -98,12 +115,11 @@
               "RelativeToolTip": "Task3.Tests\\Stubs\\UserStab.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T14:58:42.812Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-16T14:58:42.812Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "UserDaoStub.cs",
               "DocumentMoniker": "C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\Exception Handling\\Task3.Tests\\Stubs\\UserDaoStub.cs",
               "RelativeDocumentMoniker": "Task3.Tests\\Stubs\\UserDaoStub.cs",
@@ -111,8 +127,7 @@
               "RelativeToolTip": "Task3.Tests\\Stubs\\UserDaoStub.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T14:58:41.365Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-16T14:58:41.365Z"
             },
             {
               "$type": "Document",
@@ -122,7 +137,7 @@
               "RelativeDocumentMoniker": "Task3.Tests\\Stubs\\ResponseModelStub.cs",
               "ToolTip": "C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\Exception Handling\\Task3.Tests\\Stubs\\ResponseModelStub.cs",
               "RelativeToolTip": "Task3.Tests\\Stubs\\ResponseModelStub.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAIAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-16T14:58:27.953Z",
               "EditorCaption": ""

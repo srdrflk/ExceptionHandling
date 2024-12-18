@@ -99,3 +99,4 @@ C:\Users\Serdar_Filik\Desktop\DotNetBasicMentorProjects\Exception Handling\Task3
 C:\Users\Serdar_Filik\Desktop\DotNetBasicMentorProjects\Exception Handling\Task3.Tests\obj\Debug\netcoreapp3.1\Task3.Tests.dll
 C:\Users\Serdar_Filik\Desktop\DotNetBasicMentorProjects\Exception Handling\Task3.Tests\obj\Debug\netcoreapp3.1\Task3.Tests.pdb
 C:\Users\Serdar_Filik\Desktop\DotNetBasicMentorProjects\Exception Handling\Task3.Tests\obj\Debug\netcoreapp3.1\Task3.Tests.genruntimeconfig.cache
+C:\Users\Serdar_Filik\Desktop\DotNetBasicMentorProjects\Exception Handling\Task3.Tests\obj\Debug\netcoreapp3.1\Task3.Tests.sourcelink.json
